@@ -1,0 +1,2 @@
+# salmonrunnw_scenario
+サーモンランNWシナリオリポジトリ
