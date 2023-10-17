@@ -1,0 +1,535 @@
+{
+    "data": [
+        {
+            "image": "Screenshot 2023-07-08 12-05-53.png",
+            "code": "S1Q3-LT9D-9137-C9U8",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "けんしろさんセレクト:　ゲキムズムニ・エール",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "Screenshot 2023-07-08 12-05-57.png",
+            "code": "SAXX-3UTM-2YNE-809B",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "315%",
+            "remark": "ラッシュサンド",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "Screenshot 2023-07-08 12-05-59.png",
+            "code": "S3VX-L7D4-02QC-D00H",
+            "stage": "アラマキ砦",
+            "hazardlevel": "281%",
+            "remark": "カタパ20体湧き",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "Screenshot 2023-07-08 12-06-00.png",
+            "code": "SJ9D-0EPV-JVUS-SM0N",
+            "stage": "アラマキ砦",
+            "hazardlevel": "333%",
+            "remark": "シンプルクソムズアラマキ",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "Screenshot 2023-07-08 12-06-06.png",
+            "code": "SJ9D-OEPV-JVUS-SM0N",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "シンプルムズムニ・エール①",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "Screenshot 2023-07-22 02-08-13.png",
+            "code": "SCUW-MSCG-FED0-1RCS",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "193%",
+            "remark": "ローラーなしラッシュ（WAVE2）",
+            "deleted": "1",
+            "deleted_at": "2023/7/22"
+        },
+        {
+            "image": "Screenshot 2023-07-16 17-25-46.png",
+            "code": "SA68-RAQ5-YXC4-X1TM",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "184%",
+            "remark": "ランダム編成",
+            "deleted": "1",
+            "deleted_at": "2023/7/15"
+        },
+        {
+            "image": "",
+            "code": "SAGQ-U9AE-XBLL-LG13",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SWSQ-G89R-4P7K-LWAD",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SG0R-RCA1-Y052-D04R",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SMMD-DJ42-RCE6-242Q",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S65R-GQUN-CSV3-GGAD",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S9XC-2HYU-J80M-VTH5",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S8A1-LSPM-XRXP-VGST",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S15M-7JHV-OVHW-SB18",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-08 12-05-55.png",
+            "code": "SC1U-DE4G-S7R6-SKQC",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "ランダムクソ編成タワー21体湧き",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "",
+            "code": "SBJF-02W0-DBC7-7AM2",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "STLF-RW0X-A4RN-1NH2",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S0DA-23AJ-1USC-S4TG",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SNSW-F6EJ-BFBB-CJ69",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SB4L-HFCY-GW8F-A7Y9",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-08 12-06-04.png",
+            "code": "S9S2-J8HU-0S9A-QD4S",
+            "stage": "ドンブラコ",
+            "hazardlevel": "333%",
+            "remark": "満潮ドンブラコ×3wave(最難関)",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "",
+            "code": "S8JM-B3KS-U953-PM9V",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SM5G-57TK-9E7G-UU38",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S7WL-3WYK-8QSS-HEF5",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S82R-6PX3-F69Q-63UW",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SMNT-VXRR-KNJM-J1XV",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-08 12-06-02.png",
+            "code": "S8P2-P3KE-K1T9-Y52M",
+            "stage": "シェケナダム",
+            "hazardlevel": "333%",
+            "remark": "wave1→ローラ×4＆無限テッキュウ湧き",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "",
+            "code": "S9QV-9S04-96B8-TQQM",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SWQ8-3S4V-2VUM-6918",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SBHS-PEM9-AF1C-XY6K",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-08 12-06-17.png",
+            "code": "S514-HPKT-4WYM-SHW2",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "乱獲勢には簡単？",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "",
+            "code": "SBUA-4T02-Y7X7-QETE",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SR6B-CMU1-CNMT-WYQY",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SS95-8K4L-6CV8-FAEB",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S94C-AY2J-02BN-DE9T",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SRN6-FM1Q-C7LL-2KQ4",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-08 12-06-07.png",
+            "code": "SKKH-GT4F-SUTJ-NK0R",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "シンプルムズムニ・エール②",
+            "deleted": "1",
+            "deleted_at": "2023/7/8"
+        },
+        {
+            "image": "",
+            "code": "SSKF-03C4-UX3X-N2GN",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-22 02-08-58.png",
+            "code": "ST9G-4F90-JYL8-KQ2S",
+            "stage": "アラマキ砦",
+            "hazardlevel": "205%",
+            "remark": "カタパ多め",
+            "deleted": "1",
+            "deleted_at": "2023/7/22"
+        },
+        {
+            "image": "",
+            "code": "S4HY-RCT1-G9D6-Q8B1",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S51T-3JFB-W728-97QF",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SF8X-OM4Q-H4KK-HS2G",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-21 17-13-42.png",
+            "code": "SXLG-XDA6-0H80-PF4N",
+            "stage": "シェケナダム",
+            "hazardlevel": "211%",
+            "remark": "黄金編成",
+            "deleted": "1",
+            "deleted_at": "2023/7/21"
+        },
+        {
+            "image": "",
+            "code": "STRH-Q1YF-N1UW-6CDC",
+            "stage": "シェケナダム",
+            "hazardlevel": "333%",
+            "remark": "黄金編成 キケン度MAX．WAVE1からラッシュで撃沈．その後のWAVEが何かは分かりません",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SLPW-T679-LBKC-77SC",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "タワー11＆テッキュウ14",
+            "deleted": "",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-21 17-13-45.png",
+            "code": "SPKV-1MRH-N5PY-XY4A",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "194%",
+            "remark": "ランダム編成",
+            "deleted": "1",
+            "deleted_at": "2023/7/21"
+        },
+        {
+            "image": "Screenshot 2023-07-16 17-34-13.png",
+            "code": "SVWY-LQ1W-QCM9-3XGL",
+            "stage": "シェケナダム",
+            "hazardlevel": "310%",
+            "remark": "パブロ，スパッタリー，わかば，９６",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-16 17-35-04.png",
+            "code": "SH6D-C2LD-09F5-RF3A",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "333%",
+            "remark": "すじこキケン度MAXラッシュサンド",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S0UJ-RCC2-AG7S-90G8",
+            "stage": "アラマキ砦",
+            "hazardlevel": "",
+            "remark": "カタパ大量",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-22 20-49-04.png",
+            "code": "SAT1-PWG7-HRW9-30CU",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "333%",
+            "remark": "全部満潮（W3ハコビヤ）",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "S45N-Y07Q-RKPD-MAP7",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SKLQ-7F3L-VCK2-2QEN",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2023-07-23 15-57-11.png",
+            "code": "SU87-HCQU-9UYG-2TJ1",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "残業つきキケン度MAX",
+            "deleted": "1",
+            "deleted_at": "2023/7/22"
+        },
+        {
+            "image": "",
+            "code": "SN4D-1Y1H-099W-PYR0",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "STFW-QCY3-HH76-TB6D",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "カタパッド14体",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "F2QLwaKa8AAQxAS.jpg",
+            "code": "S0PT-F73V-FFPR-AY42",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "なにかが１５体以上出現",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "F2QLyvUakAACusv.jpg",
+            "code": "S5D1-NY8V-BVB6-0PA0",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "なにかが１５体以上出現",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SGER-4LDR-UHAY-S698",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "害悪三銃士のうち２つが10匹以上湧きます。",
+            "deleted": "0",
+            "deleted_at": ""
+        }
+    ]
+}
