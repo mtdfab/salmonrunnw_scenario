@@ -530,6 +530,24 @@
             "remark": "害悪三銃士のうち２つが10匹以上湧きます。",
             "deleted": "0",
             "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SFPH-SCJU-S4B1-G1XS",
+            "stage": "トキシラズいぶし工房",
+            "hazardlevel": "317%",
+            "remark": "トキシラズ満潮ドロシャケエクス（W1）",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "STEK-QV8G-5NEK-YYDF",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "333%",
+            "remark": "すじこオールランダム",
+            "deleted": "0",
+            "deleted_at": ""
         }
     ]
 }
