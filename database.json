@@ -154,11 +154,11 @@
             "deleted_at": ""
         },
         {
-            "image": "",
+            "image": "GFGNHAhbQAAYzlu.jpg",
             "code": "STLF-RW0X-A4RN-1NH2",
-            "stage": "",
-            "hazardlevel": "",
-            "remark": "",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "全WAVE普通・タツ付き",
             "deleted": "",
             "deleted_at": ""
         },
@@ -546,6 +546,159 @@
             "stage": "すじこジャンクション跡",
             "hazardlevel": "333%",
             "remark": "すじこオールランダム",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GFHChZrawAAg4o1.jpg",
+            "code": "SMMR-FUJP-VMCG-6AX5",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "",
+            "remark": "すじこオールランダム",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GG1ZEjXagAAFDUn.jpg",
+            "code": "SXVM-V3JU-697C-ESP8",
+            "stage": "シェケナダム",
+            "hazardlevel": "260%",
+            "remark": "普通・満潮・満潮",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GFGNCxabMAAIhsg.jpg",
+            "code": "SA6M-TGPQ-CWV9-1345",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "333%",
+            "remark": "普通・干潮・普通",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GFGNE0jbwAA74fh.jpg",
+            "code": "S3QV-9XC6-W52R-H3GW",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "261%",
+            "remark": "干潮（ドスコイ）・満潮（ラッシュ）・普通",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GFGNHnDa4AAyPQH.jpg",
+            "code": "SFVA-66YD-ML06-JRMV",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "251%",
+            "remark": "普通・普通（霧）・？",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GFNnnMqaAAAXNKJ.jpg",
+            "code": "SMBT-B5FS-HCAQ-L3QA",
+            "stage": "ドンブラコ",
+            "hazardlevel": "333%",
+            "remark": "干潮・普通・？",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GFNnnWma0AA63b4.jpg",
+            "code": "SYEV-C1HQ-E56W-Q93M",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "満潮・？・？",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GHs4hp_b0AA6c-o.jpg",
+            "code": "ST3D-84BX-FX0D-6PYW",
+            "stage": "どんぴこ闘技場",
+            "hazardlevel": "324%",
+            "remark": "満潮・普通・？",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GFFPeI8acAA6iVC.jpg",
+            "code": "SVC3-7RCA-5XM3-2KGG",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "普通（霧）・普通・干潮",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "",
+            "code": "SUVO-W37E-9LKU-X21S",
+            "stage": "トキシラズいぶし工房",
+            "hazardlevel": "",
+            "remark": "ランダム編成",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GGi2RZtbQAAXmqY.jpg",
+            "code": "SBR6-CBD6-WKMY-678H",
+            "stage": "ドンブラコ",
+            "hazardlevel": "328%",
+            "remark": "満潮・満潮・？",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GGi2R3GaoAABrzq.jpg",
+            "code": "SSN1-UH7Y-K4K1-S05W",
+            "stage": "ドンブラコ",
+            "hazardlevel": "333%",
+            "remark": "満潮・満潮・干潮",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GGi2Sd7boAAZv-5.jpg",
+            "code": "S10N-E0K4-ETDQ-QHDV",
+            "stage": "ドンブラコ",
+            "hazardlevel": "333%",
+            "remark": "普通（グリル）・満潮・普通・普通（ジョー）",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GGi2TFsbYAAnOBe.jpg",
+            "code": "STW9-3425-PTB8-LN32",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "普通・満潮・干潮",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GE5jvYaaIAA3gD_.jpg",
+            "code": "S1PR-3XEP-3G8N-53LW",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GFAA6VHakAACVOJ.jpg",
+            "code": "SR9C-62HE-FQCE-BA27",
+            "stage": "",
+            "hazardlevel": "",
+            "remark": "",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "GFDWRobbcAAKrWM.jpg",
+            "code": "SCA3-4G9M-RF3F-1LE8",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "224%",
+            "remark": "満潮（霧）・満潮・普通（ラッシュ）・普通（タツ）",
             "deleted": "0",
             "deleted_at": ""
         }
