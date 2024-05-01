@@ -701,6 +701,132 @@
             "remark": "満潮（霧）・満潮・普通（ラッシュ）・普通（タツ）",
             "deleted": "0",
             "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2024-05-01 09-35-29.png",
+            "code": "SLT2-6BSV-F7YK-Y7G5",
+            "stage": "ドンブラコ",
+            "hazardlevel": "245%",
+            "remark": "2024年4月6日開催「おかあサーモンラン！おとうサーモンラン！」すてっぷ７",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 09-35-31.png",
+            "code": "SHER-TQ7L-R2B8-PNKD",
+            "stage": "シェケナダム",
+            "hazardlevel": "242%",
+            "remark": "満潮・満潮（ラッシュ）・満潮",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 09-35-32.png",
+            "code": "SKAW-PQ9V-JAHQ-JWNJ",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "333%",
+            "remark": "普通ラッシュサンド",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2024-05-01 09-35-34.png",
+            "code": "SAAY-869W-2WBU-6QBP",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "テッキュウ・タワー湧き",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 09-35-35.png",
+            "code": "SKPM-0PT9-VJYW-T9TJ",
+            "stage": "ドンブラコ",
+            "hazardlevel": "333%",
+            "remark": "満潮（霧）・干潮・満潮、W3湧きキツめ",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2024-05-01 09-35-37.png",
+            "code": "SH5V-34BW-8MWN-XMGS",
+            "stage": "ドンブラコ",
+            "hazardlevel": "333%",
+            "remark": "普通ラッシュサンド",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 09-35-39.png",
+            "code": "SWEU-KMUF-NTFG-LQJC",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "333%",
+            "remark": "タワー多め",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 09-57-10.png",
+            "code": "SU6W-EGQV-Q4NJ-M4D7",
+            "stage": "どんぴこ闘技場",
+            "hazardlevel": "253%",
+            "remark": "どんぴこラッシュ、グリル練習用シナリオ（W1ラッシュ、W2グリル）",
+            "deleted": "0",
+            "deleted_at": ""
+        },
+        {
+            "image": "Screenshot 2024-05-01 10-01-47.png",
+            "code": "SPXE-Y5CN-7YGD-GOM2",
+            "stage": "ドンブラコ",
+            "hazardlevel": "272%",
+            "remark": "普通・満潮（ラッシュ）・干潮（ハコビヤ）・ジョー",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 10-06-31.png",
+            "code": "S80W-Q0GF-RPGX-5JLM",
+            "stage": "シェケナダム",
+            "hazardlevel": "310%",
+            "remark": "カタパタワー多め",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 10-10-43.png",
+            "code": "SHC8-6ETN-U9NH-D54L",
+            "stage": "すじこジャンクション跡",
+            "hazardlevel": "333%",
+            "remark": "カタパ大量",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 10-12-50.png",
+            "code": "S05E-DJ15-4P0Q-PLSJ",
+            "stage": "ドンブラコ",
+            "hazardlevel": "269%",
+            "remark": "W2ラッシュ、W3グリル",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 10-14-04.png",
+            "code": "SNGX-UYQN-YSX7-BE3M",
+            "stage": "ムニ・エール海洋発電所",
+            "hazardlevel": "333%",
+            "remark": "満潮ラッシュサンド",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
+        },
+        {
+            "image": "Screenshot 2024-05-01 10-17-33.png",
+            "code": "SURD-AP4W-QUYQ-5BBF",
+            "stage": "ドンブラコ",
+            "hazardlevel": "326%",
+            "remark": "湧きキツめ",
+            "deleted": "1",
+            "deleted_at": "2024/4/30"
         }
     ]
 }
